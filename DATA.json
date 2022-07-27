@@ -25,7 +25,7 @@
   },
   {
     "Name":"Título de noticia para Huevos",
-    "Descripción":"Esta es la descripción del título",
+    "Description":"Esta es la descripción del título",
     "IconUrl":"https://fiesta.api.dev.binmatter.com/uploads/hyZjbWtSdwdIuEv4.png",
     "NoticeInf":"Esta es la información que está contenida dentro del modal de noticias, es el texto más largo de la noticia."
   },

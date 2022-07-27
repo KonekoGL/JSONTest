@@ -24,10 +24,10 @@
     "NoticeInf":"Nos encanta que nos des tu dinero.... digo que juegues nuestros juegos, por eso en CASINO hemos decidido regalarte una cantidad considerable de dinero; además de arreglar el juego para que nos lo regre... ¡Que DIGO!, PARA QUE GANES!"
   },
   {
-    "Name":"Haber si muchos Huevos!",
-    "Description":"El tamaño importa ( 0 ͜ʖ 0)?, entre mas grande la frase mejor.",
+    "Name":"Título de noticia para Huevos",
+    "Descripción":"Esta es la descripción del título",
     "IconUrl":"https://fiesta.api.dev.binmatter.com/uploads/hyZjbWtSdwdIuEv4.png",
-    "NoticeInf":"Medios informativos han comentado que las frases largas no siempre son las mejores, las pequeñas también cuentan lo suficiente como satisfacer la respuesta. Juega ahora con tus amigos y termina tus relaciones amistosas, no las necesitas mientras seas el número 1 en HUEVOS!"
+    "NoticeInf":"Esta es la información que está contenida dentro del modal de noticias, es el texto más largo de la noticia."
   },
   {
     "Name":"La loteria termina con tus amigos!",
